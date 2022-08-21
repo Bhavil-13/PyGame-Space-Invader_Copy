@@ -1,8 +1,4 @@
-from cgitb import text
-from cmath import sqrt
 import math
-from re import L
-from turtle import distance
 import pygame
 import random
 from pygame import mixer
